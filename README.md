@@ -1,4 +1,4 @@
-# Hey, call me lone0s!
+# Hey, i'm lone0s :) 
 <br />
 
 ## Computer Science student interested in Cybersecurity, challenges and problem solving
@@ -66,9 +66,6 @@ I'd rather walk the walk than talk the talk.
 <a href="https://www.mysql.com/fr/" target="_blank" rel="noreferrer"> 
 <img src="https://icons-for-free.com/iconfiles/png/512/development+logo+mysql+icon-1320184807686758112.png" alt="mysql" width="40" height="40"/> 
 </a> 
-<a href="https://vuejs.org/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> 
-</a> 
 </p>
 
 <br />
@@ -85,4 +82,4 @@ Currently spending some time learning <a href = "https://docs.soliditylang.org/e
 </p>
 
 
-# //:
+# ://
