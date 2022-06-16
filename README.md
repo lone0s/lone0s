@@ -7,7 +7,7 @@
 - Currently working on [[JurySymf]](https://github.com/lone0s/JurySymf)
 <br />
 
-- My projects are available on my [[GitHub Profile]](https://github.com/lone0s)
+- My projects are available on my [[GitHub Profile]](https://github.com/lone0s?tab=repositories)
 <br />
 
 I don't talk that much about myself, I spend most of my time either working or listening to music. 
