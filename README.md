@@ -11,6 +11,7 @@
 <br />
 
 I don't talk that much about myself, I spend most of my time either working or listening to music. 
+<br />
 I'd rather walk the walk than talk the talk.
 <br />
 
