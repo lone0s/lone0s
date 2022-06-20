@@ -83,5 +83,8 @@ Currently spending some time learning <a href = "https://docs.soliditylang.org/e
 
 </p>
 
+<p align = "center">
+  Here's my <a href = "https://twitter.com/StaticVoid_Bot">[twitter bot]</a> to track my application status to Rennes Master's in Computer Science, Cybersecurity track
+</p>
 
 ### ://
