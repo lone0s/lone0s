@@ -4,15 +4,13 @@
 ## Computer Science student interested in Cybersecurity, challenges and problem solving
 <br />
 
-- Currently working on [[JurySymf]](https://github.com/lone0s/JurySymf)
+- Currently working on [[CsvParser]](https://github.com/lone0s/CsvParser)
 <br />
 
 - My projects are available on my [[GitHub Profile]](https://github.com/lone0s?tab=repositories)
 <br />
 
-I don't talk that much about myself, I spend most of my time either working or listening to music. 
-<br />
-I'd rather walk the walk than talk the talk.
+I don't talk that much about myself :((. 
 <br />
 
 ### Skillset:
