@@ -1,16 +1,16 @@
 # Hey, i'm lone0s :) 
 <br />
 
-## Computer Science student interested in Cybersecurity, challenges and problem solving
+I'm not much of a talker :// 
 <br />
 
-- Currently working on [[CsvParser]](https://github.com/lone0s/CsvParser)
+## Computer Science student interested in cybersecurity, challenges and problem solving
+<br />
+
+- Currently working on [[University Projects]](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley)
 <br />
 
 - My projects are available on my [[GitHub Profile]](https://github.com/lone0s?tab=repositories)
-<br />
-
-I don't talk that much about myself :((. 
 <br />
 
 ### Skillset:
