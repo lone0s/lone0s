@@ -4,13 +4,15 @@
 I'm not much of a talker :// 
 <br />
 
-## Computer Science student interested in cybersecurity, challenges and problem solving
+## Computer Science student interested in cybersecurity, challenges and problem solving. <br />
+In love with reverse engineering, malware sampling, active directory and everything tied to operating systems.
+Passionate about knowledge in general but found my way in cybersec.
 <br />
 
-- Currently working on [[University Projects]](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley)
+- Currently working on [[PATCH]](https://github.com/lone0s/PATCH) and [[EVE]](https://github.com/lone0s/Eve)
 <br />
 
-- My projects are available on my [[GitHub Profile]](https://github.com/lone0s?tab=repositories)
+- Many university projects aren't available on my [GitHub Profile](https://github.com/lone0s?tab=repositories) though !
 <br />
 
 ### Skillset:
