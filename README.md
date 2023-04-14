@@ -72,7 +72,7 @@ Passionate about knowledge in general but found my way in cybersec.
 <br />
 
 <p align = "center">
-Currently spending some time learning <a href = "https://docs.soliditylang.org/en/v0.8.15/" target = "blank" rel = "noreferrer"> <img src = "https://cryptoast.fr/wp-content/webp-express/webp-images/doc-root/wp-content/uploads/2019/04/solidity-300x300.png" alt= "solidity" width = "40" height = "40" align = "center"/> </a>and <a href = "https://fr.reactjs.org/" target = "blank" rel = "noreferrer"> <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Font_Awesome_5_brands_react.svg/1200px-Font_Awesome_5_brands_react.svg.png" alt= "reactjs" width = "40" height = "40" align = "center"/></a> <br />
+Currently spending some time learning <a href = "https://docs.soliditylang.org/en/v0.8.15/" target = "blank" rel = "noreferrer"> <img src = "https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png" alt= "Golang" width = "40" height = "40" align = "center"/> </a>and <a href = "https://fr.reactjs.org/" target = "blank" rel = "noreferrer"> <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Font_Awesome_5_brands_react.svg/1200px-Font_Awesome_5_brands_react.svg.png" alt= "reactjs" width = "40" height = "40" align = "center"/></a> <br />
   Enjoying <a href = "https://academy.hackthebox.com/">[HackTheBox]</a> courses whenever I've got some free time left
 </p>
 
