@@ -1,7 +1,7 @@
 # Hey, i'm lone0s :) 
 <br />
 
-## $ Whoami /priv <br />
+## $ Whoami <br />
 Computer Science student interested in cybersecurity, challenges and problem solving.
 In love with reverse engineering, malware sampling, active directory and everything tied to operating systems (mainly working on Windows atm).<br />
 Passionate about knowledge in general and found myself feeling like home in cybersec. <br />
@@ -15,8 +15,6 @@ Not that much of a talker, more of a listener.
 <br />
 
 ## Skillset
-<br />
-
 ### System/Software Oriented : 
 <p align="justify"> 
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
