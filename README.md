@@ -8,7 +8,9 @@ Passionate about knowledge in general and found myself feeling like home in cybe
 Not that much of a talker, more of a listener.
 <br />
 
-- Currently working on [[PATCH]](https://github.com/lone0s/PATCH) and [[EVE]](https://github.com/lone0s/Eve)
+- [@[PicoCTF]](https://play.picoctf.org/users/lone0s)
+
+- Currently working on my portfolio and [[EVE]](https://github.com/lone0s/Eve)
 <br />
 
 - Many university projects aren't available on my [gitHub profile](https://github.com/lone0s?tab=repositories) though !
