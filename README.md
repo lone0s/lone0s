@@ -2,21 +2,15 @@
 <br />
 
 ## $ Whoami <br />
-Computer Science student interested in cybersecurity, challenges and problem solving.
-In love with reverse engineering, malware sampling, active directory and everything tied to operating systems (mainly working on Windows atm).<br />
-Passionate about knowledge in general and found myself feeling like home in cybersec. <br />
-Not that much of a talker, more of a listener.
-<br />
-
-- [@[PicoCTF]](https://play.picoctf.org/users/lone0s)
-
-- Currently working on my portfolio and [[EVE]](https://github.com/lone0s/Eve)
+Computer Science student interested in programming, big data and cybersecurity.
+In love with reverse engineering, malware sampling but above all, complex systems and problem solving.<br />
+Passionate about knowledge in general and found myself feeling like home in computer science. <br />
 <br />
 
 - Many university projects aren't available on my [gitHub profile](https://github.com/lone0s?tab=repositories) though !
 <br />
 
-## Skillset
+## Skillset <-- Hasn't been updated for the last 2 years 
 ### System/Software Oriented : 
 <p align="justify"> 
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
