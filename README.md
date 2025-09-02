@@ -132,17 +132,7 @@ Passionate about knowledge in general and found myself feeling like home in comp
 </p>
 <br />
 
-
-
-<p align = "center">
-Currently spending some time learning <a href = "https://docs.soliditylang.org/en/v0.8.15/" target = "blank" rel = "noreferrer"> <img src = "https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png" alt= "Golang" width = "40" height = "40" align = "center"/> </a>. <br />
-  Investing my time on some <a href = "https://academy.hackthebox.com/">[HackTheBox]</a> courses, <a href= https://crackmes.one/>[CrackMes]</a> for reverse engineering, and <a href = "https://tryhackme.com/">[TryHackMe]</a> boxes whenever I've got some free time left.
-</p>
-
 ### Contact me! <a href="mailto: loneos1337@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/New-email-envelope-back-symbol-in-circular-outlined-button.svg/2048px-New-email-envelope-back-symbol-in-circular-outlined-button.svg.png" alt="mail" height="40" width="40" /></a>
 
-<p align = "justify">
-Made an old <a href = "https://twitter.com/StaticVoid_Bot">[twitter bot]</a> to track my application status to Rennes Master's in Computer Science, Cybersecurity track
-</p>
 
 ### ://
